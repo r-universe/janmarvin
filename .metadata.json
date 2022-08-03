@@ -1,5 +1,17 @@
 [
   {
     "package": "openxlsx2"
+  },
+  {
+    "package": "readspss"
+  },
+  {
+    "package": "nlsur"
+  },
+  {
+    "package": "diffr2"
+  },
+  {
+    "package": "readsas"
   }
 ]

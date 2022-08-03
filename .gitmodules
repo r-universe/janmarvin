@@ -8,3 +8,23 @@
 	url = https://github.com/JanMarvin/openxlsx2
 	shallow = true
 	registered = true
+[submodule "readspss"]
+	path = readspss
+	url = https://github.com/JanMarvin/readspss
+	shallow = true
+	registered = true
+[submodule "nlsur"]
+	path = nlsur
+	url = https://github.com/JanMarvin/nlsur
+	shallow = true
+	registered = true
+[submodule "diffr2"]
+	path = diffr2
+	url = https://github.com/JanMarvin/diffr2
+	shallow = true
+	registered = true
+[submodule "readsas"]
+	path = readsas
+	url = https://github.com/JanMarvin/readsas
+	shallow = true
+	registered = true
