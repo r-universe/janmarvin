@@ -1,6 +1,7 @@
 [
   {
-    "package": "openxlsx2"
+    "package": "openxlsx2",
+    "oncran": false
   },
   {
     "package": "readspss"
