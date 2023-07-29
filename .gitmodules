@@ -5,6 +5,9 @@
 [submodule "openxlsx2"]
 	path = openxlsx2
 	url = https://github.com/JanMarvin/openxlsx2
+[submodule "msoc"]
+	path = msoc
+	url = https://github.com/JanMarvin/msoc
 [submodule "readspss"]
 	path = readspss
 	url = https://github.com/JanMarvin/readspss
