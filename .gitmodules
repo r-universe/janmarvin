@@ -2,21 +2,21 @@
 	path = .registry
 	url = https://github.com/janmarvin/universe
 	branch = HEAD
-[submodule "openxlsx2"]
-	path = openxlsx2
-	url = https://github.com/JanMarvin/openxlsx2
-[submodule "msoc"]
-	path = msoc
-	url = https://github.com/JanMarvin/msoc
-[submodule "readspss"]
-	path = readspss
-	url = https://github.com/JanMarvin/readspss
-[submodule "nlsur"]
-	path = nlsur
-	url = https://github.com/JanMarvin/nlsur
 [submodule "diffr2"]
 	path = diffr2
 	url = https://github.com/JanMarvin/diffr2
+[submodule "msoc"]
+	path = msoc
+	url = https://github.com/JanMarvin/msoc
+[submodule "nlsur"]
+	path = nlsur
+	url = https://github.com/JanMarvin/nlsur
+[submodule "openxlsx2"]
+	path = openxlsx2
+	url = https://github.com/JanMarvin/openxlsx2
 [submodule "readsas"]
 	path = readsas
 	url = https://github.com/JanMarvin/readsas
+[submodule "readspss"]
+	path = readspss
+	url = https://github.com/JanMarvin/readspss
