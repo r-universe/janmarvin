@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/janmarvin/universe
+	url = https://github.com/janmarvin/janmarvin.r-universe.dev
 	branch = HEAD
 [submodule "diffr2"]
 	path = diffr2
