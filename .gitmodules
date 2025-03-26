@@ -12,6 +12,10 @@
 [submodule "libxdiffR"]
 	path = libxdiffR
 	url = https://github.com/JanMarvin/libxdiffR
+[submodule "mschart"]
+	path = mschart
+	url = https://github.com/JanMarvin/mschart
+	branch = sec_y_axis
 [submodule "msoc"]
 	path = msoc
 	url = https://github.com/JanMarvin/msoc
