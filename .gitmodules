@@ -5,10 +5,6 @@
 [submodule "diffr2"]
 	path = diffr2
 	url = https://github.com/JanMarvin/diffr2
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/JanMarvin/htmltools
-	registered = false
 [submodule "libxdiffR"]
 	path = libxdiffR
 	url = https://github.com/JanMarvin/libxdiffR
