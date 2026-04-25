@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/janmarvin/janmarvin.r-universe.dev
 	branch = HEAD
+[submodule "Rgtk4"]
+	path = Rgtk4
+	url = https://github.com/JanMarvin/Rgtk4
 [submodule "diffr2"]
 	path = diffr2
 	url = https://github.com/JanMarvin/diffr2
