@@ -29,3 +29,6 @@
 [submodule "readspss"]
 	path = readspss
 	url = https://github.com/JanMarvin/readspss
+[submodule "spaghetti"]
+	path = spaghetti
+	url = https://github.com/JanMarvin/spaghetti
