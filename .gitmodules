@@ -26,6 +26,9 @@
 [submodule "ovbars"]
 	path = ovbars
 	url = https://github.com/JanMarvin/ovbars
+[submodule "oxview"]
+	path = oxview
+	url = https://github.com/JanMarvin/oxview
 [submodule "readsas"]
 	path = readsas
 	url = https://github.com/JanMarvin/readsas
