@@ -11,6 +11,9 @@
 [submodule "encharter"]
 	path = encharter
 	url = https://github.com/JanMarvin/encharter
+[submodule "gtxlsx"]
+	path = gtxlsx
+	url = https://github.com/JanMarvin/gtxlsx
 [submodule "libxdiffR"]
 	path = libxdiffR
 	url = https://github.com/JanMarvin/libxdiffR
