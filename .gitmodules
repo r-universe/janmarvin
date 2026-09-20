@@ -41,3 +41,7 @@
 [submodule "spaghetti"]
 	path = spaghetti
 	url = https://github.com/JanMarvin/spaghetti
+[submodule "tdaR"]
+	path = tdaR
+	url = https://github.com/JanMarvin/TDA
+	subdir = tdaR
